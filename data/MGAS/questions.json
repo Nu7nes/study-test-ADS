@@ -1,0 +1,290 @@
+{
+    "Questões Gerenciamento de Projetos": [
+      {
+        "pergunta": "Questão 1: O que é um marco em gerenciamento de projetos?",
+        "opcoes": [
+          "a) Um grande obstáculo no projeto.",
+          "b) Um ponto de referência significativo no projeto.",
+          "c) Uma pessoa-chave no projeto.",
+          "d) Uma atividade que pode ser atrasada sem impactar o cronograma do projeto.",
+          "e) Um evento de encerramento do projeto."
+        ],
+        "resposta": "b) Um ponto de referência significativo no projeto."
+      },
+      {
+        "pergunta": "Questão 2: Quais são os valores fundamentais do Manifesto Ágil?",
+        "opcoes": [
+          "a) Documentação abrangente, processos detalhados, contrato rígido, seguir um plano.",
+          "b) Indivíduos e interações, processos e ferramentas, negociação de contratos, seguir um plano.",
+          "c) Indivíduos e interações, processos e ferramentas, negociação de contratos, resposta a mudanças.",
+          "d) Negociação de contratos, processos detalhados, documentação abrangente, resposta a mudanças.",
+          "e) Seguir um plano, documentação abrangente, resposta a mudanças, processos e ferramentas."
+        ],
+        "resposta": "c) Indivíduos e interações, processos e ferramentas, negociação de contratos, resposta a mudanças."
+      },
+      {
+        "pergunta": "Questão 3: Qual é um dos princípios do Manifesto Ágil relacionado à entrega contínua de software funcional?",
+        "opcoes": [
+          "a) Priorize a documentação abrangente sobre o desenvolvimento de software.",
+          "b) Colabore com os clientes apenas no início do projeto.",
+          "c) Aceite mudanças nos requisitos, mesmo tarde no desenvolvimento.",
+          "d) Mantenha um contrato rígido com os clientes.",
+          "e) Realize grandes entregas de software após longos períodos de desenvolvimento."
+        ],
+        "resposta": "c) Aceite mudanças nos requisitos, mesmo tardiamente no desenvolvimento."
+      },
+      {
+        "pergunta": "Questão 4: Qual é o objetivo da abordagem ágil em relação aos clientes e partes interessadas?",
+        "opcoes": [
+          "a) Evitar qualquer interação com clientes e partes interessadas.",
+          "b) Minimizar a comunicação com clientes e partes interessadas.",
+          "c) Colaborar de forma estreita e frequente com clientes e partes interessadas.",
+          "d) Definir requisitos detalhados antes de iniciar o projeto.",
+          "e) Isolar clientes e partes interessadas do processo de desenvolvimento."
+        ],
+        "resposta": "c) Colaborar de forma estreita e frequente com clientes e partes interessadas."
+      },
+      {
+        "pergunta": "Questão 5: Como o Manifesto Ágil aborda a questão de adaptação a mudanças nos requisitos do projeto?",
+        "opcoes": [
+          "a) Recomenda que as mudanças sejam evitadas a todo custo.",
+          "b) Encoraja a atualização dos requisitos apenas no início do projeto.",
+          "c) Sugere que as mudanças nos requisitos sejam ignoradas.",
+          "d) Aceita mudanças nos requisitos, mesmo tardiamente no desenvolvimento.",
+          "e) Exige que todos os requisitos sejam definidos antes de iniciar o projeto."
+        ],
+        "resposta": "d) Aceita mudanças nos requisitos, mesmo tardiamente no desenvolvimento."
+      },
+      {
+        "pergunta": "Questão 6: Qual é a ênfase do Manifesto Ágil em relação à equipe de desenvolvimento?",
+        "opcoes": [
+          "a) Prioriza a hierarquia e a divisão de tarefas rígida.",
+          "b) Incentiva equipes grandes e bem estruturadas.",
+          "c) Enfatiza a responsabilidade individual sobre o trabalho em equipe.",
+          "d) Valoriza a colaboração e a auto-organização da equipe.",
+          "e) Ignora a equipe de desenvolvimento como um fator importante."
+        ],
+        "resposta": "d) Valoriza a colaboração e a auto-organização da equipe."
+      }
+    ],
+    "Questões Business Model Canvas": [
+      {
+        "pergunta": "Questão 1: O que é o Business Model Canvas?",
+        "opcoes": [
+          "a) Um livro de estratégia empresarial.",
+          "b) Uma ferramenta visual para criar, descrever e analisar modelos de negócios.",
+          "c) Um tipo de contrato comercial.",
+          "d) Um software de gerenciamento de projetos.",
+          "e) Um modelo de marketing digital."
+        ],
+        "resposta": "b) Uma ferramenta visual para criar, descrever e analisar modelos de negócios."
+      },
+      {
+        "pergunta": "Questão 2: Quantos blocos principais compõem o Business Model Canvas?",
+        "opcoes": [
+          "a) 3",
+          "b) 5",
+          "c) 7",
+          "d) 9",
+          "e) 12"
+        ],
+        "resposta": "d) 9"
+      },
+      {
+        "pergunta": "Questão 3: Qual bloco do Business Model Canvas se refere à forma como uma empresa adquire, retém e atende seus clientes?",
+        "opcoes": [
+          "a) Parcerias Chave",
+          "b) Segmentos de Clientes",
+          "c) Atividades Chave",
+          "d) Recursos Chave",
+          "e) Canais de Distribuição"
+        ],
+        "resposta": "e) Canais de Distribuição"
+      },
+      {
+        "pergunta": "Questão 4: O que representa o bloco 'Fontes de Receita' no Business Model Canvas?",
+        "opcoes": [
+          "a) As parcerias estratégicas da empresa.",
+          "b) As principais atividades de negócios.",
+          "c) O público-alvo da empresa.",
+          "d) As maneiras pelas quais a empresa gera renda.",
+          "e) Os recursos essenciais da empresa."
+        ],
+        "resposta": "d) As maneiras pelas quais a empresa gera renda."
+      },
+      {
+        "pergunta": "Questão 5: Qual bloco do Business Model Canvas descreve os recursos necessários para operar um modelo de negócios?",
+        "opcoes": [
+          "a) Parcerias Chave",
+          "b) Segmentos de Clientes",
+          "c) Atividades Chave",
+          "d) Recursos Chave",
+          "e) Canais de Distribuição"
+        ],
+        "resposta": "d) Recursos Chave"
+      }
+    ],
+    "Questões Extreme Programming": [
+      {
+        "pergunta": "Questão 1: Qual é um dos princípios fundamentais da Extreme Programming (XP)?",
+        "opcoes": [
+          "a) Minimizar a comunicação entre os membros da equipe.",
+          "b) Evitar mudanças nos requisitos do projeto.",
+          "c) Valorizar processos de desenvolvimento detalhados.",
+          "d) Entregar software funcional em curtos ciclos.",
+          "e) Priorizar a documentação extensa."
+        ],
+        "resposta": "d) Entregar software funcional em curtos ciclos."
+      },
+      {
+        "pergunta": "Questão 2: O que é o conceito de 'Desenvolvimento Orientado a Testes' (Test-Driven Development - TDD) na XP?",
+        "opcoes": [
+          "a) Desenvolver software sem realizar testes.",
+          "b) Desenvolver testes apenas após a conclusão do código.",
+          "c) Escrever testes antes de escrever o código de produção.",
+          "d) Ignorar completamente a qualidade do código.",
+          "e) Terceirizar a atividade de teste para outra equipe."
+        ],
+        "resposta": "c) Escrever testes antes de escrever o código de produção."
+      },
+      {
+        "pergunta": "Questão 3: Qual é o papel do 'Cliente no Local' (On-Site Customer) na Extreme Programming (XP)?",
+        "opcoes": [
+          "a) Rever o código após a conclusão do projeto.",
+          "b) Fornecer requisitos apenas no início do desenvolvimento.",
+          "c) Representar os interesses dos clientes e tomar decisões rápidas.",
+          "d) Gerenciar a equipe de desenvolvimento.",
+          "e) Não tem um papel definido na XP."
+        ],
+        "resposta": "c) Representar os interesses dos clientes e tomar decisões rápidas."
+      },
+      {
+        "pergunta": "Questão 4: O que é 'Integração Contínua' (Continuous Integration) na Extreme Programming (XP)?",
+        "opcoes": [
+          "a) Uma técnica para evitar a colaboração da equipe de desenvolvimento.",
+          "b) Um processo para realizar testes apenas no final do projeto.",
+          "c) A prática de mesclar e testar regularmente o código da equipe em um repositório compartilhado.",
+          "d) Uma abordagem para documentar extensivamente o código.",
+          "e) Um método para evitar mudanças nos requisitos do projeto."
+        ],
+        "resposta": "c) A prática de mesclar e testar regularmente o código da equipe em um repositório compartilhado."
+      },
+      {
+        "pergunta": "Questão 5: O que significa 'Refatoração' (Refactoring) na Extreme Programming (XP)?",
+        "opcoes": [
+          "a) Ignorar o código existente e reescrever tudo do zero.",
+          "b) Adicionar novos recursos ao código sem revisão.",
+          "c) Melhorar a qualidade do código existente por meio de pequenas modificações.",
+          "d) Documentar o código de maneira mais detalhada.",
+          "e) Atrasar a entrega para realizar revisões extensivas."
+        ],
+        "resposta": "c) Melhorar a qualidade do código existente por meio de pequenas modificações."
+      }
+    ],
+    "Questões Lean": [
+      {
+        "pergunta": "Questão 1: Qual é o principal objetivo da metodologia Lean da Toyota?",
+        "opcoes": [
+          "a) Maximizar a produção a todo custo.",
+          "b) Minimizar o envolvimento dos funcionários na melhoria contínua.",
+          "c) Aumentar os estoques para garantir a disponibilidade imediata dos produtos.",
+          "d) Eliminar desperdícios e criar valor para o cliente.",
+          "e) Aumentar o número de fornecedores."
+        ],
+        "resposta": "d) Eliminar desperdícios e criar valor para o cliente."
+      },
+      {
+        "pergunta": "Questão 5: Qual é o papel da equipe de desenvolvimento de software na metodologia Lean da Toyota?",
+        "opcoes": [
+          "a) Minimizar a participação dos funcionários nas decisões.",
+          "b) Realizar tarefas de forma isolada sem comunicação.",
+          "c) Contribuir ativamente para a melhoria contínua e a eliminação de desperdícios.",
+          "d) Seguir as instruções dos gerentes sem questionar.",
+          "e) Evitar a automação de processos."
+        ],
+        "resposta": "c) Contribuir ativamente para a melhoria contínua e a eliminação de desperdícios."
+      }
+    ],
+    "Questões Kanban": [
+      {
+        "pergunta": "Questão 1: O que o Kanban é principalmente usado para visualizar em um processo?",
+        "opcoes": [
+          "a) O custo total do projeto.",
+          "b) Os membros da equipe de projeto.",
+          "c) O fluxo de trabalho e o status das tarefas.",
+          "d) As metas e objetivos do projeto.",
+          "e) A documentação do projeto."
+        ],
+        "resposta": "c) O fluxo de trabalho e o status das tarefas."
+      },
+      {
+        "pergunta": "Questão 2: Qual é o princípio fundamental do Kanban?",
+        "opcoes": [
+          "a) A velocidade da equipe de projeto.",
+          "b) A alocação de recursos fixos.",
+          "c) A produção em massa de produtos.",
+          "d) Limitar o trabalho em progresso.",
+          "e) A automação de processos."
+        ],
+        "resposta": "d) Limitar o trabalho em progresso."
+      }
+    ],
+    "Questões Gestão de Stakeholders": [
+      {
+        "pergunta": "Questão 1: Quem são os stakeholders em um projeto?",
+        "opcoes": [
+          "a) Apenas os membros da equipe de projeto.",
+          "b) Qualquer pessoa interessada no projeto ou afetada por ele.",
+          "c) Apenas os patrocinadores financeiros do projeto.",
+          "d) Os clientes finais do projeto.",
+          "e) Apenas os concorrentes diretos do projeto."
+        ],
+        "resposta": "b) Qualquer pessoa interessada no projeto ou afetada por ele."
+      },
+      {
+        "pergunta": "Questão 2: Qual é o objetivo principal da gestão de stakeholders?",
+        "opcoes": [
+          "a) Excluir qualquer pessoa que não concorde com o projeto.",
+          "b) Minimizar a comunicação com os stakeholders.",
+          "c) Identificar e satisfazer as necessidades e expectativas dos stakeholders.",
+          "d) Priorizar as necessidades da equipe de projeto sobre as dos stakeholders.",
+          "e) Manter os stakeholders desinformados sobre o projeto."
+        ],
+        "resposta": "c) Identificar e satisfazer as necessidades e expectativas dos stakeholders."
+      },
+      {
+        "pergunta": "Questão 3: Como a gestão de stakeholders pode contribuir para o sucesso do projeto?",
+        "opcoes": [
+          "a) Ignorando as opiniões dos stakeholders.",
+          "b) Priorizando apenas as necessidades da equipe de projeto.",
+          "c) Mantendo os stakeholders desinformados.",
+          "d) Garantindo que as expectativas dos stakeholders sejam consideradas e gerenciadas.",
+          "e) Limitando a comunicação com os stakeholders."
+        ],
+        "resposta": "d) Garantindo que as expectativas dos stakeholders sejam consideradas e gerenciadas."
+      },
+      {
+        "pergunta": "Questão 4: Qual é uma estratégia comum na gestão de stakeholders para lidar com stakeholders insatisfeitos?",
+        "opcoes": [
+          "a) Isolá-los do projeto.",
+          "b) Ignorar suas preocupações.",
+          "c) Envolver-se em conflitos abertos.",
+          "d) Comunicar-se de forma proativa e resolver suas preocupações.",
+          "e) Priorizar suas necessidades sobre as de outros stakeholders."
+        ],
+        "resposta": "d) Comunicar-se de forma proativa e resolver suas preocupações."
+      },
+      {
+        "pergunta": "Questão 5: Qual é a diferença entre stakeholders internos e externos em um projeto?",
+        "opcoes": [
+          "a) Stakeholders internos são membros da equipe de projeto, enquanto stakeholders externos são clientes finais.",
+          "b) Stakeholders internos são sempre mais importantes do que os externos.",
+          "c) Stakeholders internos são mais difíceis de gerenciar do que os externos.",
+          "d) Stakeholders internos estão dentro da organização do projeto, enquanto os externos estão fora dela.",
+          "e) Não há diferença entre stakeholders internos e externos."
+        ],
+        "resposta": "d) Stakeholders internos estão dentro da organização do projeto, enquanto os externos estão fora dela."
+      }
+    ]
+  }
+  
