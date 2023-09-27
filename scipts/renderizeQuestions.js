@@ -2,6 +2,7 @@ import { handleSubmitForm } from "./submitForm.js";
 import { createNameToRadio, getAcronym } from "./formatation.js";
 
 export function renderizeQuestions(json, questions, acronym) {
+    console.log(json);
     const questionsForm = document.getElementById('questionsForm');
     questionsForm.innerHTML = ''
 
@@ -12,6 +13,7 @@ export function renderizeQuestions(json, questions, acronym) {
         themeArea.innerHTML = `<h3>${theme}</h3>`;
 
         for (let question in currentTheme) { // read questions
+            console.log(currentTheme[question].pergunta);
             const currentQuestion = currentTheme[question];
             themeArea.innerHTML += `<p>${currentQuestion.pergunta}</p>`;
 
