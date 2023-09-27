@@ -126,59 +126,59 @@
   ],
   "Questões Scrum": [
     {
-      "pergunta": "Questão 1: Qual é o principal objetivo do Scrum?",
+      "pergunta": "Questão 1: Qual é o principal objetivo da Daily Scrum (reunião diária) no Scrum?",
       "opcoes": [
-        "a) Criar documentação detalhada do projeto.",
-        "b) Entregar software funcional em curtos ciclos.",
-        "c) Definir requisitos rígidos no início do projeto.",
-        "d) Minimizar a interação com os clientes.",
-        "e) Evitar mudanças nos requisitos do projeto."
+        "a) Revisar e refinar o Backlog do Produto.",
+        "b) Tomar decisões críticas para o projeto.",
+        "c) Acompanhar o progresso diário e identificar impedimentos.",
+        "d) Planejar o próximo sprint.",
+        "e) Realizar a retrospectiva do sprint anterior."
       ],
-      "resposta": "b) Entregar software funcional em curtos ciclos."
+      "resposta": "c) Acompanhar o progresso diário e identificar impedimentos."
     },
     {
-      "pergunta": "Questão 2: Quem é responsável por definir as funcionalidades que serão entregues em uma iteração (Sprint) no Scrum?",
+      "pergunta": "Questão 2: Quais são os três principais papéis no Scrum?",
       "opcoes": [
-        "a) O gerente de projeto.",
-        "b) O Product Owner.",
-        "c) O Scrum Master.",
-        "d) A equipe de desenvolvimento.",
-        "e) Os clientes finais."
+        "a) Gerente de Projeto, Analista de Negócios, Desenvolvedor.",
+        "b) Scrum Master, Product Owner, Equipe de Desenvolvimento.",
+        "c) Cliente, Testador de Qualidade, Designer.",
+        "d) Scrum Master, CEO, Equipe de Suporte Técnico.",
+        "e) Product Owner, Desenvolvedor, Engenheiro de Software."
       ],
-      "resposta": "b) O Product Owner."
+      "resposta": "b) Scrum Master, Product Owner, Equipe de Desenvolvimento."
     },
     {
-      "pergunta": "Questão 3: Qual é a reunião principal do Scrum que ocorre no início de cada iteração (Sprint) para planejar o trabalho a ser realizado?",
+      "pergunta": "Questão 3: Qual é a duração típica de um Sprint no Scrum?",
       "opcoes": [
-        "a) Daily Standup.",
-        "b) Sprint Review.",
-        "c) Sprint Retrospective.",
-        "d) Sprint Planning.",
-        "e) Sprint Execution."
+        "a) 2 semanas",
+        "b) 1 mês",
+        "c) 3 meses",
+        "d) 6 meses",
+        "e) Variável, dependendo do projeto"
       ],
-      "resposta": "d) Sprint Planning."
+      "resposta": "a) 2 semanas"
     },
     {
-      "pergunta": "Questão 4: O que é um dos princípios fundamentais do Scrum em relação à transparência?",
+      "pergunta": "Questão 4: O que é o Product Backlog no Scrum?",
       "opcoes": [
-        "a) Manter as informações ocultas da equipe de desenvolvimento.",
-        "b) Compartilhar informações apenas com o Product Owner.",
-        "c) Ocultar informações dos clientes.",
-        "d) Tornar o trabalho e o progresso visíveis para todos.",
-        "e) Limitar o acesso às informações do projeto."
+        "a) Uma lista das funcionalidades concluídas no sprint atual.",
+        "b) Uma lista de problemas não resolvidos no projeto.",
+        "c) Uma lista ordenada de todas as funcionalidades desejadas para o produto.",
+        "d) Uma lista de erros encontrados durante a revisão do sprint.",
+        "e) Uma lista de tarefas diárias para a equipe de desenvolvimento."
       ],
-      "resposta": "d) Tornar o trabalho e o progresso visíveis para todos."
+      "resposta": "c) Uma lista ordenada de todas as funcionalidades desejadas para o produto."
     },
     {
-      "pergunta": "Questão 5: Qual é a duração típica de uma iteração (Sprint) no Scrum?",
+      "pergunta": "Questão 5: Qual é o objetivo da reunião de Sprint Review (revisão do sprint) no Scrum?",
       "opcoes": [
-        "a) 1 semana.",
-        "b) 1 mês.",
-        "c) 3 meses.",
-        "d) 6 meses.",
-        "e) Pode variar, mas deve ser fixa para todas as Sprints."
+        "a) Planejar o próximo sprint.",
+        "b) Apresentar o trabalho concluído durante o sprint à equipe de gerenciamento.",
+        "c) Identificar impedimentos e obstáculos.",
+        "d) Definir as tarefas diárias para o próximo sprint.",
+        "e) Revisar e ajustar o Product Backlog."
       ],
-      "resposta": "b) 1 mês."
+      "resposta": "b) Apresentar o trabalho concluído durante o sprint à equipe de gerenciamento."
     }
   ],
   "Questões Extreme Programming": [
