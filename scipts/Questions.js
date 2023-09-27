@@ -8,6 +8,7 @@ export class Questions {
     }
 
     async loadQuestions() {
+        console.log(this.path)
         try {
             const response = await fetch(this.path);
             const data = await response.json();
