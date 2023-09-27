@@ -24,13 +24,11 @@ async function handleQuestions(e) {
 }
 
 function renderizeLinks(links) {
-
     links.forEach(link => {
         const newLink = document.createElement('button');
         newLink.id = link.acronym
         newLink.innerText = link.name
         newLink.onclick = handleQuestions
-
         listLinks.appendChild(newLink)
     })
 }

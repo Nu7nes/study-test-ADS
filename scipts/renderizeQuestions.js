@@ -21,12 +21,10 @@ export function renderizeQuestions(json, questions, acronym) {
                                             <span>${currentQuestion.opcoes[option]}</span>
                                         </label>`;
             }
-
             questions.answer ?
                 themeArea.innerHTML += `<p class="answer">Resposta: ${currentQuestion.resposta}</p>`
                 : '';
         }
-
         questionsForm.appendChild(themeArea);
     }
 
