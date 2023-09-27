@@ -1,5 +1,5 @@
 import { Questions } from "./Questions.js"
-import { renderizeQuestions } from "./renderize.js"
+import { renderizeQuestions } from "./renderizeQuestions.js"
 
 const links = [
     {
@@ -10,12 +10,16 @@ const links = [
 
 const listLinks = document.getElementById('listLinks')
 
-function handleQuestions(e) {
+async function handleQuestions(e) {
     const acronym = e.target.id
     const questions = new Questions(acronym)
+
     questions.loadQuestions().then(data => {
-        console.log(data);
-        renderizeQuestions(data, questions.answer)
+        let observer = questions.answer;
+        renderizeQuestions(data, questions, acronym)
+        setInterval(()=>{
+            if(observer != questions.answer) renderizeQuestions(data, questions, acronym);
+        }, 1000)
     })
 }
 

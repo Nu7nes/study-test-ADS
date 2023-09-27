@@ -1,15 +1,9 @@
-function createNameToRadio(name) {
-    return name.substring(0, 9).replace(/\s/g, "-");
-}
+import { handleSubmitForm } from "./submitForm.js";
+import { createNameToRadio, getAcronym } from "./formatation.js";
 
-function getAcronym(str) {
-    const words = str.split(' ');
-    const firstLetters = words.map(palavra => palavra.charAt(0));
-    return firstLetters.join('');
-}
-
-export function renderizeQuestions(json, answer) {
+export function renderizeQuestions(json, questions, acronym) {
     const questionsForm = document.getElementById('questionsForm');
+    questionsForm.innerHTML = ''
 
     for (let theme in json) { // read questionary theme
         const currentTheme = json[theme];
@@ -23,17 +17,23 @@ export function renderizeQuestions(json, answer) {
 
             for (let option in currentQuestion.opcoes) { // read question options
                 themeArea.innerHTML += `<label>
-                                            <input type="radio" name=${createNameToRadio(currentQuestion.pergunta) + getAcronym(theme)} id=${option}></input>
+                                            <input type="radio" name=${createNameToRadio(currentQuestion.pergunta) + '_' + getAcronym(theme)} id=${option}></input>
                                             <span>${currentQuestion.opcoes[option]}</span>
                                         </label>`;
             }
 
-            answer ?
+            questions.answer ?
                 themeArea.innerHTML += `<p class="answer">Resposta: ${currentQuestion.resposta}</p>`
-                : ''
+                : '';
         }
 
         questionsForm.appendChild(themeArea);
     }
 
+    const submitBtn = document.createElement('button');
+    submitBtn.id = acronym
+    submitBtn.type = "button";
+    submitBtn.innerText = 'Terminar'
+    submitBtn.onclick = () => { handleSubmitForm( questions) };
+    questionsForm.appendChild(submitBtn);
 }
