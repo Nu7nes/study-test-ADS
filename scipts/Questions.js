@@ -3,7 +3,7 @@ import { createNameToRadio, getAcronym } from "./formatation.js";
 export class Questions {
     constructor(acronym) {
         this.acronym = acronym;
-        this.path = `../data/${acronym}/questions.json`;
+        this.path = `./data/${acronym}/questions.json`;
         this.answer = false
     }
 
