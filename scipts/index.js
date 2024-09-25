@@ -5,6 +5,10 @@ const links = [
     {
         name: 'Modelagem e Gerenciamento Ágil de Sistemas',
         acronym: 'MGAS'
+    },
+    {
+        name: 'Estratégia Digital e Web Analytics',
+        acronym: 'EDWA'
     }
 ]
 

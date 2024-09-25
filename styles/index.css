@@ -9,9 +9,16 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    row-gap: 1em;
+    flex-wrap: wrap;
     margin: 2rem;
 }
 
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
 
 .links>button {
     padding: 0.5rem;
@@ -19,6 +26,7 @@ header {
     background-color: rgb(67, 67, 116);
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 form>div>h3 {

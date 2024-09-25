@@ -1,0 +1,187 @@
+{
+    "Questões Topico 1 - SEO e Otimização de Conteúdo": [
+        {
+            "pergunta": "Questão 1: O que é a Otimização para Mecanismos de Busca (SEO) no contexto do marketing digital?",
+            "opcoes": [
+                "a) Um conjunto de práticas para melhorar o posicionamento de um site nas ferramentas de busca, como o Google, por meio de técnicas de otimização de conteúdo e estrutura do site.",
+                "b) Uma estratégia para aumentar o número de seguidores nas redes sociais.",
+                "c) Um método de criação de anúncios pagos em motores de busca.",
+                "d) Uma técnica de marketing focada exclusivamente no design visual de sites.",
+                "e) Um sistema de organização de conteúdo para facilitar o acesso ao site."
+            ],
+            "resposta": "a) Um conjunto de práticas para melhorar o posicionamento de um site nas ferramentas de busca, como o Google, por meio de técnicas de otimização de conteúdo e estrutura do site."
+        },
+
+        {
+            "pergunta": "Questão 2: Qual é o principal objetivo do SEO?",
+            "opcoes": [
+                "a) Melhorar a estética de um site.",
+                "b) Melhorar o posicionamento de um site nos motores de busca.",
+                "c) Aumentar o número de anúncios no site.",
+                "d) Garantir que o site seja acessível apenas em dispositivos móveis.",
+                "e) Aumentar o número de visitantes sem estratégia."
+            ],
+            "resposta": "b) Melhorar o posicionamento de um site nos motores de busca."
+        },
+        {
+            "pergunta": "Questão 3: O que é SEO On-Page?",
+            "opcoes": [
+                "a) Otimização de links externos para o site.",
+                "b) Otimização do conteúdo e código dentro do próprio site.",
+                "c) Publicidade paga para motores de busca.",
+                "d) Redesign de layout do site.",
+                "e) Integração com redes sociais."
+            ],
+            "resposta": "b) Otimização do conteúdo e código dentro do próprio site."
+        },
+        {
+            "pergunta": "Questão 4: Qual é o impacto de backlinks para o SEO?",
+            "opcoes": [
+                "a) Nenhum impacto.",
+                "b) Ajudam a melhorar a relevância e autoridade do site.",
+                "c) Reduzem o tráfego do site.",
+                "d) Desclassificam o site nos motores de busca.",
+                "e) Aumentam o número de anúncios no site."
+            ],
+            "resposta": "b) Ajudam a melhorar a relevância e autoridade do site."
+        }
+    ],
+    "Questões Topico 2 - Google Ads e Publicidade Digital": [
+        {
+            "pergunta": "Questão 1: O que é Google Ads?",
+            "opcoes": [
+                "a) Uma rede social.",
+                "b) Uma plataforma de criação de sites.",
+                "c) Um serviço de publicidade paga por clique do Google.",
+                "d) Um mecanismo de busca.",
+                "e) Um software de design gráfico."
+            ],
+            "resposta": "c) Um serviço de publicidade paga por clique do Google."
+        },
+        {
+            "pergunta": "Questão 2: Quais são as principais métricas utilizadas para avaliar o sucesso de uma campanha de anúncios no Google Ads?",
+            "opcoes": [
+                "a) Taxa de conversão: porcentagem de visitantes que realizaram uma ação desejada, como uma compra ou cadastro.",
+                "b) Custo por clique (CPC): valor médio que o anunciante paga cada vez que alguém clica no anúncio.",
+                "c) Impressões: quantidade de vezes que o anúncio foi exibido para os usuários.",
+                "d) Taxa de cliques (CTR): porcentagem de pessoas que clicaram no anúncio em relação ao número de vezes que ele foi exibido.",
+                "e) Todas as alternativas anteriores."
+            ],
+            "resposta": "e) Todas as alternativas anteriores."
+        },
+        {
+            "pergunta": "Questão 3: O que significa CTR em uma campanha de anúncios?",
+            "opcoes": [
+                "a) Conversão por Taxa Real.",
+                "b) Click-Through Rate.",
+                "c) Cost-Time Revenue.",
+                "d) Client-Time Response.",
+                "e) Campaign-Track Results."
+            ],
+            "resposta": "b) Click-Through Rate."
+        },
+        {
+            "pergunta": "Questão 4: Qual é a principal vantagem de usar anúncios no Google Ads?",
+            "opcoes": [
+                "a) Melhorar o SEO do site.",
+                "b) Direcionar o tráfego pago para um site específico.",
+                "c) Aumentar o número de curtidas em redes sociais.",
+                "d) Facilitar a criação de vídeos de marketing.",
+                "e) Garantir que o site apareça em todos os navegadores."
+            ],
+            "resposta": "b) Direcionar o tráfego pago para um site específico."
+        }
+    ],
+    "Questões Topico 3 - Web Analytics": [
+        {
+            "pergunta": "Questão 1: O que é Web Analytics?",
+            "opcoes": [
+                "a) Uma ferramenta para melhorar o design do site.",
+                "b) Um processo de coleta e análise de dados sobre o tráfego de um site.",
+                "c) Uma técnica de criação de conteúdo.",
+                "d) Uma forma de fazer SEO Off-Page.",
+                "e) Um tipo de campanha de marketing nas redes sociais."
+            ],
+            "resposta": "b) Um processo de coleta e análise de dados sobre o tráfego de um site."
+        },
+        {
+            "pergunta": "Questão 2: Qual das opções é uma ferramenta de Web Analytics?",
+            "opcoes": [
+                "a) Google Analytics.",
+                "b) Photoshop.",
+                "c) Google Ads.",
+                "d) Microsoft Word.",
+                "e) Instagram."
+            ],
+            "resposta": "a) Google Analytics."
+        },
+        {
+            "pergunta": "Questão 3: Qual é o objetivo principal do Web Analytics?",
+            "opcoes": [
+                "a) Monitorar os cliques em anúncios pagos.",
+                "b) Medir o engajamento nas redes sociais.",
+                "c) Coletar e interpretar dados sobre visitantes do site para otimizar estratégias de marketing.",
+                "d) Analisar as cores mais populares em sites.",
+                "e) Melhorar a usabilidade de softwares de design gráfico."
+            ],
+            "resposta": "c) Coletar e interpretar dados sobre visitantes do site para otimizar estratégias de marketing."
+        },
+        {
+            "pergunta": "Questão 4: O que é uma métrica de conversão no Web Analytics?",
+            "opcoes": [
+                "a) Número de cliques em banners.",
+                "b) Número de visitantes que realizaram uma ação desejada, como uma compra ou cadastro.",
+                "c) Número de visitas ao site.",
+                "d) A quantidade de backlinks.",
+                "e) A taxa de rejeição do site."
+            ],
+            "resposta": "b) Número de visitantes que realizaram uma ação desejada, como uma compra ou cadastro."
+        }
+    ],
+    "Questões Topico 4 - Marketing de Conteúdo e Mídias Sociais": [
+        {
+            "pergunta": "Questão 1: O que é Marketing de Conteúdo?",
+            "opcoes": [
+                "a) Estratégia de criar e distribuir conteúdo relevante para atrair e engajar o público-alvo.",
+                "b) Criação de anúncios pagos em plataformas digitais.",
+                "c) Técnica de SEO para aumentar o ranking nos motores de busca.",
+                "d) Uso de técnicas de design gráfico para melhorar sites.",
+                "e) Nenhuma das anteriores."
+            ],
+            "resposta": "a) Estratégia de criar e distribuir conteúdo relevante para atrair e engajar o público-alvo."
+        },
+        {
+            "pergunta": "Questão 2: Qual é a principal função do marketing de conteúdo?",
+            "opcoes": [
+                "a) Vender produtos diretamente.",
+                "b) Aumentar a conversão por meio de anúncios pagos.",
+                "c) Educar e engajar os consumidores, criando confiança na marca.",
+                "d) Garantir backlinks para SEO.",
+                "e) Melhorar o layout do site."
+            ],
+            "resposta": "c) Educar e engajar os consumidores, criando confiança na marca."
+        },
+        {
+            "pergunta": "Questão 3: Qual das seguintes é uma boa prática de Marketing de Conteúdo?",
+            "opcoes": [
+                "a) Criar conteúdo sem foco em um público específico.",
+                "b) Publicar posts esporadicamente em blogs.",
+                "c) Produzir conteúdo relevante e de alta qualidade regularmente.",
+                "d) Focar em anúncios pagos ao invés de conteúdo.",
+                "e) Utilizar apenas vídeos curtos."
+            ],
+            "resposta": "c) Produzir conteúdo relevante e de alta qualidade regularmente."
+        },
+        {
+            "pergunta": "Questão 4: Qual é uma métrica importante para medir o sucesso em Mídias Sociais?",
+            "opcoes": [
+                "a) Quantidade de curtidas.",
+                "b) Taxa de engajamento.",
+                "c) Número de palavras no conteúdo.",
+                "d) Tempo de carregamento da página.",
+                "e) Frequência de postagens."
+            ],
+            "resposta": "b) Taxa de engajamento."
+        }
+    ]
+}
